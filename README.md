@@ -1,13 +1,12 @@
 <h1 align="center">🤖 sunqfuAi - SaaS Landing Page</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-Type-Landing%20Page-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JavaScript-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deployed-Netlify-success?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/XcW0fAc2f8bozk6WVD/giphy.gif" width="500" alt="SaaS UI Animation" />
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
