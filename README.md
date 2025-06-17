@@ -26,38 +26,43 @@
 
 ## ✨ Key Features
 
-- 🎯 Hero section with bold headline and CTA  
-- 🧠 Features grid to highlight your product’s core capabilities  
-- 📈 Testimonials or benefit section  
-- 🧩 Reusable components and clean layout  
+- 🎯 Hero section with bold headline and CTA
+- 🧠 Features grid to highlight your product’s core capabilities
+- 📈 Testimonials or benefit section
+- 🧩 Reusable components and clean layout
 - 📱 Responsive design for all screen sizes
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tech         | Role                        |
-|--------------|-----------------------------|
-| **HTML5**    | Structure and content        |
-| **CSS3**     | Styling and layout           |
-| **JavaScript** | Interactivity (if used)     |
+## 🛠️ Tech Stack
+
+| Technology     | Role                               |
+| -------------- | ---------------------------------- |
+| **React**      | Component-based frontend framework |
+| **TypeScript** | Type-safe JavaScript               |
+| **JavaScript** | General logic and DOM manipulation |
+| **HTML5**      | Semantic structure of the layout   |
+| **CSS3**       | Styling and responsive design      |
+| **Netlify**    | Deployment and hosting             |
 
 ---
 
 ## 🧠 What I Learned
 
-- How to structure a clean, conversion-friendly layout  
-- Effective use of spacing, hierarchy, and color contrast  
-- Responsive web design best practices  
+- How to structure a clean, conversion-friendly layout
+- Effective use of spacing, hierarchy, and color contrast
+- Responsive web design best practices
 - Organizing UI content for maximum impact
 
 ---
 
 ## 🚀 Future Improvements
 
-- Add animations (e.g. scroll reveal, button hover effects)  
-- Convert layout to React or another frontend framework  
-- Hook into a real signup API or form handler  
+- Add animations (e.g. scroll reveal, button hover effects)
+- Convert layout to React or another frontend framework
+- Hook into a real signup API or form handler
 - Integrate with Mailchimp, HubSpot, etc.
 
 ---
