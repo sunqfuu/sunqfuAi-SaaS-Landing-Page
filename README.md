@@ -36,8 +36,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 | Technology     | Role                               |
 | -------------- | ---------------------------------- |
 | **React**      | Component-based frontend framework |
